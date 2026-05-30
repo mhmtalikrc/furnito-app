@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "furnito-app",
+    "slug": "furnito-app",
+    "version": "1.0.0",
+    "scheme": "myapp",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
